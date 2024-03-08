@@ -1,0 +1,7 @@
+742808
+603509
+<%= image_tag("icons/_VS4.svg",
+src:"https://localhost:3000/images/icons/_VS2.svg",
+class: 'hover:cursor-pointer',
+width: "40%", height:"auto", loading:"lazy",
+data: { action: 'click->dark-mode#toggle'}) %>
